@@ -4,3 +4,16 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+oaisoftwarealliance/oai-amf:v1.5.0
+oaisoftwarealliance/oai-nrf:v1.5.0
+oaisoftwarealliance/oai-spgwu-tiny:v1.5.0
+oaisoftwarealliance/oai-smf:v1.5.0
+oaisoftwarealliance/oai-udr:v1.5.0
+oaisoftwarealliance/oai-udm:v1.5.0
+oaisoftwarealliance/oai-ausf:v1.5.0
+oaisoftwarealliance/oai-upf-vpp:v1.5.0
+oaisoftwarealliance/oai-nssf:v1.5.0
+oaisoftwarealliance/oai-pcf:v1.5.0
+oaisoftwarealliance/oai-nef:v1.5.0
+oaisoftwarealliance/trf-gen-cn5g:latest
+
